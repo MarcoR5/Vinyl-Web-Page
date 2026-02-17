@@ -152,7 +152,7 @@ const dropDownItems =[
 
 {/* middle section */}
 <div className="  text-black h-50 w-full  flex justify-center items-center border-t-5 border-b-5">
-    <p className="text-xl">No matter where you're at in your career, we've got a production model to suit you.</p>
+    <p className="text-xl"> No matter where you&apos;re at in your career, we&apos;ve got a production model to suit you.</p>
 </div>
 
 {/* 2 panels side-by-side */}
@@ -301,7 +301,7 @@ const dropDownItems =[
                 <p className="">CUSTOMER SUPPORT</p>
               </div>
               <h2 className="mt-1 text-4xl text-center font-bold">Here to help, <br /> whenever you need it.</h2>
-              <p className="text-xl text-center mt-5 ">Whether your're an artist in the middle of production, or a fan with <br /> questions about your order, our team is here to help.</p>
+              <p className="text-xl text-center mt-5 ">  Whether you&apos;re an artist in the middle of production, or a fan with <br />questions about your order, our team is here to help.</p>
             </div>
               
             </div>
@@ -312,7 +312,7 @@ const dropDownItems =[
                 <p className="">COMMUNITY</p>
               </div>
               <h2 className="text-5xl font-bold mb-5">Join a growing community.</h2>
-              <p className="text-xl mb-10">We're building a home for the next generation of vinyl lovers. <br /> Get in front of fans, connect with artists, labels and stores.</p>
+              <p className="text-xl mb-10"> We&apos;re building a home for the next generation of vinyl lovers. <br />Get in front of fans, connect with artists, labels and stores.</p>
               <button className="border-3 rounded-full p-5 font-bold">BROWSE ARISTS</button>
     </div>
     {/* collage */}
@@ -351,7 +351,7 @@ const dropDownItems =[
                 <p className="">ARTIST ON QRATES</p>
               </div>
               <div className="ml-10 ">
-                <h2 className="text-4xl">"The response was overwhelming. It made <br/> me wonder whi I hadn't pressed any <br /> records on vinyl before now. It felt like <br /> something that people had been waiting for <br /> for a long time."</h2>
+                <h2 className="text-4xl"> &quot;The response was overwhelming. It made <br />me wonder why I hadn&apos;t pressed any <br />records on vinyl before now. It felt like <br />something that people had been waiting for <br />for a long time.&quot;</h2>
                 <h3 className="text-xl font-bold">-SOL</h3>
               </div>
           <div className="ml-10 text-2xl mb-2">
@@ -373,7 +373,7 @@ const dropDownItems =[
                 <p className="">ARTIST ON QRATES</p>
               </div>
               <h2 className="text-4xl text-white font-bold text-center">Make it real with <br /> Qrates Vinyl Studio</h2>
-              <p className="text-xl text-center">Design the look and feel of your vinyl and use the profit calculator to <br /> immedietely see how much your project will cost, and how much you'll earn.</p>
+              <p className="text-xl text-center">Design the look and feel of your vinyl and use the profit calculator to <br /> immediately see how much your project will cost, and how much you&apos;ll earn.</p>
       </div>
            <div className="bg-[url('./images/vinyl2.png')] w-200 h-100 bg-cover bg-center mt-10  ">
         </div>
