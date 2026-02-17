@@ -112,7 +112,7 @@ const dropDownItems =[
    <>
    {/* navbar */}
    <div className="p-3 flex justify-between items-center">
-    <img  src="/logo.png" alt="" width={60} />
+    <img  src="./logo.png" alt="" width={60} />
     {/* links */}
     <div className="text-black space-x-10 w-[50%] flex justify-center">
        <Link href={""}> DISCOVER</Link>
