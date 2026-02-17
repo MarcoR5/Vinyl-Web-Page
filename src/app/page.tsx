@@ -174,7 +174,7 @@ const dropDownItems =[
     <p className="">GET INTO IT</p>
     </div>
     <h1 className="text-6xl text-black mt-10">Press & Sell</h1>
-    <p className="text-center text-black text-2xl mt-10 mb-8">Launch your record, sooner. Take pre-orders from <br/> fans and we'll take care of the rest.</p>
+    <p className="text-center text-black text-2xl mt-10 mb-8">Launch your record, sooner. Take pre-orders from <br/> fans and we&apos;ll take care of the rest.</p>
     <div className="bg-[url('./images/man.png')] w-120 h-120 bg-cover bg-center ">
         </div>
         <button className="bg-black rounded-full w-70 h-20 mt-10">LEARN MORE</button>
